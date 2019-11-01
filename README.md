@@ -1,3 +1,4 @@
 # 6thBot
 
-In order to set up, you'll need to grab a Discord API token and assign it to the "discord" dictionary element in api_keys.json .
+You'll need to grab a Discord API token and replace the "discord" dictionary element in api_keys.json with it.
+If you want to test/add to the other APIs, you'll need a token for them too.
